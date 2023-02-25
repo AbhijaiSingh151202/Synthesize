@@ -677,6 +677,20 @@ section{
     }
 }
 
+@media (max-width:350px){
+    .contact form{
+        background:#fff;
+        box-shadow: var(--box-shadow);
+        border-radius: .5rem;
+        margin:2rem auto;
+        max-width: 30rem;
+        padding:2rem;   
+    }
+    video{
+        width: 209px;
+    }
+}
+
 
 @media (max-width:460px){
 

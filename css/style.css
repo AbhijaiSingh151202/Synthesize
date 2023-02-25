@@ -538,6 +538,7 @@ section{
     video{
         width: 580px;
     }
+    
 
 
 }
@@ -580,6 +581,9 @@ section{
     .container{
         grid-template-columns: 1fr;
         gap:0;
+    }
+    .container .sidebar .box{
+        margin-left: 15px;
     }
 
     .container .posts-container .post .image{
